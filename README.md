@@ -15,6 +15,7 @@ Revenue trends
 
 Category-wise performance
 
-Dashboard preview
+Dashboard preview ![image](https://github.com/user-attachments/assets/2dfb9774-1867-41f3-90e0-afcbae73b028)
+
 
 
